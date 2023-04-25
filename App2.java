@@ -1,5 +1,5 @@
 class App2{
 public static void main(String[] args){
-	System.out.println(" ee sala cup namde");
+	System.out.println(" gedru bidru RCB");
 	}
 }
